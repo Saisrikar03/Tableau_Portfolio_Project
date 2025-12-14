@@ -26,9 +26,11 @@ DASHBOARD HIGHLIGHTS
 
 PROJECT FILES
 
-* AirBnB_Full_Project.twbx – Tableau packaged workbook
+* AirBnB_Full_Project.twbx - Tableau packaged workbook
 
-* index.html – Used to embed the Tableau dashboard on GitHub Pages
+* index.html - Used to embed the Tableau dashboard on GitHub Pages
+
+* Data Set Link - https://docs.google.com/spreadsheets/d/1iwjzaDrDQm5wvvoVyfMAeN08lqPWCbJf/edit?usp=drive_link&ouid=113252089421321239042&rtpof=true&sd=true
 
 DATA SOURCE
 
